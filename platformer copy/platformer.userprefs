@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../stayingalivegame/blab/Assets/ballclack.cs">
+    <Files>
+      <File FileName="../stayingalivegame/blab/Assets/ballclack.cs" Line="54" Column="3" />
+      <File FileName="../stayingalivegame/Assets/scripts/breathing.cs" Line="18" Column="40" />
+      <File FileName="../Day5/Assets/trigger.cs" Line="15" Column="18" />
+      <File FileName="Assets/scripts/alternateplatformer.cs" Line="31" Column="63" />
+      <File FileName="Assets/scripts/platformer.cs" Line="9" Column="30" />
+      <File FileName="Assets/scripts/watersplash.cs" Line="18" Column="3" />
+      <File FileName="Assets/scripts/groundlanding.cs" Line="15" Column="2" />
+      <File FileName="Assets/scripts/respawn.cs" Line="17" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
